@@ -43,10 +43,16 @@ button {
 
 .cover {
   padding: 165px 50px 50px 50px;
+  margin-bottom: 180px;
+}
+
+.lots {
+  margin-bottom: 120px;
 }
 
 .about {
   padding: 35px 0 0 47px;
+  margin-bottom: 180px;
 }
 
 .footer {
