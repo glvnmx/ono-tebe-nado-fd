@@ -37,26 +37,3 @@ button {
   font: inherit;
   all: unset;
 }
-
-.header {
-  padding: 94px 50px;
-} 
-
-.cover {
-  padding: 165px 50px 50px 50px;
-  margin-bottom: 180px;
-}
-
-.lots {
-  margin-bottom: 120px;
-}
-
-.about {
-  padding: 35px 0 0 47px;
-  margin-bottom: 180px;
-}
-
-.footer {
-  padding: 0 50px;
-}
-
