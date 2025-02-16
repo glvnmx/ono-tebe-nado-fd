@@ -1,0 +1,48 @@
+.header {
+  display: grid;
+  grid-template-columns: 1fr min-content 1fr;
+  align-items: center;
+}
+
+
+.header__links-list {
+  display: flex;
+  flex-direction: row;
+  gap: 31px;
+  font-size: 18px;
+  list-style-type: circle;
+}
+
+.header__links-list-item {
+
+}
+
+.header__link {
+
+}
+
+.header__link-active {
+  text-decoration: none;
+}
+
+.header__links-list-item_no-bullit {
+  list-style-type: none;
+}
+
+.header__logo {
+
+}
+
+.header__logo-image {
+  width: 148px;
+  height: 105px;
+}
+
+.address {
+  line-height: 1.5;
+  max-width: 240px;
+}
+
+.header__address {
+  justify-self: end;
+}
