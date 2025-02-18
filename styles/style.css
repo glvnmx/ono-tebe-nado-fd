@@ -215,9 +215,9 @@
   width: 240px;
   height: 240px;
   margin: 0 auto;
+  margin-top: 35px;
   border-radius: 50%;
   background-color: #000;
-  margin-top: 35px;
 }
 
 .about__logo-image {
@@ -227,17 +227,17 @@
 
 .about__title {
   margin-bottom: 100px;
+  padding-top: 135px;
+  padding-left: 25px;
   font-weight: bold;
   font-size: 40px;
   text-transform: uppercase;
-  padding-top: 135px;
-  padding-left: 25px;
 }
 
 .about__text {
+  padding-left: 25px;
   font-size: 20px;
   line-height: 1.24;
-  padding-left: 25px;
 }
 
 .about__text p:nth-child(n+2) {
@@ -245,9 +245,9 @@
 }
 
 .footer {
-  padding: 0 50px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  padding: 0 82px 50px;
 }
 
 .footer__address {
@@ -261,8 +261,8 @@
 }
 
 .footer__menu-list-item {
-  list-style: none;
   font-size: 18px;
+  list-style: none;
 }
 
 .footer__menu-link_active {
